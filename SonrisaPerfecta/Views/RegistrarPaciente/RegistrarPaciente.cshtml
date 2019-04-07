@@ -1,0 +1,255 @@
+﻿x|@{
+    ViewBag.Title = "RegistrarPaciente";
+}
+<br />
+<br />
+<br />
+<br />
+<div class="container-fluid">
+    <section class="">
+        <!--Contenido del formulario para registrar un nuevo paciente-->
+        <form method="post" action="">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <h3>Por favor registre el nuevo paciente</h3>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="alert alert-success">
+                                <strong>¡Importante!</strong> al registrar un nuevo paciente, &eacute;ste optendr&aacute; el 20% de descuendo en su segundo tratamiento.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="NombreCompleto">Nombre completo</label>
+                                <input type="text" class="form-control" id="NombreCompleto" name="NombreCompleto" required placeholder="Nombre completo">
+                                <div class="valid-feedback">
+                                    ¡Bien hecho!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="TipoIdentificacion">Tipo de identificaci&oacute;n</label>
+                                <select id="TipoIdentificacion" name="TipoIdentificacion" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="CC">C&eacute;dula de ciudadan&iacute;a</option>
+                                    <option value="TI">Tarjeta de identidad</option>
+                                    <option value="RC">Registro civil</option>
+                                    <option value="CE">C&eacute;dula de extranjer&iacute;a</option>
+                                    <option value="Pasaporte">Pasaporte</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="numeroIdentificacion">N&uacute;mero de indentificaci&oacute;n</label>
+                                <input type="number" class="form-control" id="numeroIdentificacion" name="numeroIdentificacion" required placeholder="N&uacute;mero de indentificaci&oacute;n">
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="Genero">G&eacute;nero</label>
+                                <select id="Genero" name="Genero" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Heterosexual">Heterosexual</option>
+                                    <option value="TI">Homosexual</option>
+                                    <option value="Homosexual">Bisexual</option>
+                                    <option value="Asexual">Asexual</option>
+                                    <option value="Pansexual">Pansexual</option>
+                                    <option value="Demisexual">Demisexual</option>
+                                    <option value="Androsexual">Androsexual</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="FechaNacimiento">Fecha de nacimiento</label>
+                                <input id="FechaNacimiento" name="FechaNacimiento" class="form-control datepicker" readonly placeholder="Ingresar la fecha de nacimiento">
+                            </div>
+                        </div>
+                        <div class="col-sm-1">
+                            <div class="form-group">
+                                <label for="Edad">Edad</label>
+                                <input type="number" class="form-control" id="Edad" maxlength="3" name="Edad" required placeholder="Edad">
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="EstadoCivil">Estado civil</label>
+                                <select id="EstadoCivil" name="EstadoCivil" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Soltero/a">Soltero/a</option>
+                                    <option value="Union libre">Uni&oacute;n libre</option>
+                                    <option value="Casado/a">Casado/a</option>
+                                    <option value="Divorciado/a">Divorciado/a</option>
+                                    <option value="Viudo/a">Viudo/a</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="DireccionRecidencia">Direcci&oacute;n de recidencia</label>
+                                <input type="text" class="form-control" id="DireccionRecidencia" name="DireccionRecidencia" maxlength="100" required placeholder="Direcci&oacute;n de recidencia">
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="BarrioRecidencia">Barrio de recidencia</label>
+                                <select id="BarrioRecidencia" name="BarrioRecidencia" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Abajo">Abajo</option>
+                                    <option value="Bernando Hoyos">Bernando Hoyos</option>
+                                    <option value="Campo Alegre">Campo Alegre</option>
+                                    <option value="El Carmen">El Carmen</option>
+                                    <option value="Jose Antonio Galan">Jos&eacute; Antonio Gal&aacute;n</option>
+                                    <option value="Granadillo">Kennedy</option>
+                                    <option value="Los Truplillos">Los Truplillos</option>
+                                    <option value="Mercedez Sur">Mercedez Sur</option>
+                                    <option value="Nuevo Horizonte">Nuevo Horizonte</option>
+                                    <option value="Olaya">Olaya</option>
+                                    <option value="Primero de Mayo">Primero de Mayo</option>
+                                    <option value="Rio Mar">Rio Mar</option>
+                                    <option value="Solaire">Solaire</option>
+                                    <option value="Terrenos Pastoral Social">Terrenos Pastoral Social</option>
+                                    <option value="Urbanizacion la Playa">Urbanizaci&oacute;n la Playa</option>
+                                    <option value="Villa Nueva">Villa Nueva</option>
+                                    <option value="Villate">Villate</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="Telefono">Tel&eacute;fono</label>
+                                <input type="number" class="form-control" id="Telefono" name="Telefono" required placeholder="Tel&eacute;fono">
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="Ocupacion">Ocupaci&oacute;n</label>
+                                <input type="text" class="form-control" id="Ocupacion" name="Ocupacion" required placeholder="Ocupaci&oacute;n">
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="NivelEscolaridad">Nivel de escolaridad</label>
+                                <select id="NivelEscolaridad" name="NivelEscolaridad" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Preescolar">Preescolar</option>
+                                    <option value="Primaria">B&aacute;sica primaria</option>
+                                    <option value="Secundaria">B&aacute;sica Secundaria</option>
+                                    <option value="Tecnico">T&eacute;cnico</option>
+                                    <option value="Tecnologo">Tecn&oacute;logo</option>
+                                    <option value="Profesional">Profesional</option>
+                                    <option value="Especializacion">Especializaci&oacute;n</option>
+                                    <option value="Maestria">Maestr&iacute;a</option>
+                                    <option value="Doctorado">Doctorado</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="correoElectronico">Correo electr&oacute;nico</label>
+                                <input type="email" class="form-control" id="correoElectronico" name="correoElectronico" required placeholder="ejemplo@correo.com">
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="Eps">EPS</label>
+                                <select id="Eps" name="Eps" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Cajacopi">Cajacopi</option>
+                                    <option value="Comfacor">Comfacor</option>
+                                    <option value="Comfamiliar">Comfamiliar</option>
+                                    <option value="Medimas">Medimas</option>
+                                    <option value="Mutualse">Mutualser</option>
+                                    <option value="Nueva EPS">Nueva EPS</option>
+                                    <option value="Sanitas UAP">Sanitas UAP</option>
+                                    <option value="Salud Total">Salud Total</option>
+                                    <option value="Salud vida">Saludvida</option>
+                                    <option value="Sura">Sura</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="Regimen">R&eacute;gimen</label>
+                                <select id="Regimen" name="Regimen" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Vinculado">Vinculado</option>
+                                    <option value="Contributivo">Contributivo</option>
+                                    <option value="Subsidiado">Subsidiado</option>
+                                    <option value="Especial">Especial</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label for="ContactoEmergencia">Contacto de emergencia</label>
+                                <input type="tel" class="form-control" id="ContactoEmergencia" name="ContactoEmergencia" required placeholder="Contacto de emergencia">
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="TratamientoRealizar">Tratamiento a realizar</label>
+                                <select id="TratamientoRealizar" name="TratamientoRealizar" required class="form-control form-control-lg">
+                                    <option value="">-Seleccionar-</option>
+                                    <option value="Endodoncia">Endodoncia</option>
+                                    <option value="Odontologia general">Odontolog&iacute;a general</option>
+                                    <option value="Odontopediatria">Odontopediatr&iacute;a</option>
+                                    <option value="Ortodoncia">Ortodoncia</option>
+                                    <option value="Periodoncia">Periodoncia</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="AntecedenteMedico">Antecedentes m&eacute;dicos</label>
+                                <textarea class="form-control" id="AntecedenteMedico" name="AntecedenteMedico" required placeholder="Antecedentes m&eacute;dicos"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                </div>
+            </div>
+        </form>
+        <!--Contenido del formulario para registrar un nuevo paciente-->
+    </section>
+</div>
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
+

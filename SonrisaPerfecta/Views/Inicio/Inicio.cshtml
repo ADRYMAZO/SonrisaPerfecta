@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewBag.Title = "Inicio";
+}
+<br />
+<br />
+<br />
+<br />
+    <section class="banner-sec">
+        <div class="container">
+            <div class="row">
+                <!--Servicios que ofrece este sitio web-->
+                <div class="col-md-3">
+                    <div class="card">
+                        <img class="img-fluid" src="~/Images/Citas.jpg" alt="">
+                        <div class="card-img-overlay"> <span class="badge badge-pill badge-danger">Citas</span> </div>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h2 class=" title-small"><a href="#">@Html.ActionLink("Agendar cita", "AgendarCita", "AgendarCita")</a></h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="img-fluid" src="~/Images/Tratamiento.jpg" alt="">
+                        <div class="card-img-overlay"> <span class="badge badge-pill badge-danger">Tratamientos</span> </div>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h2 class=" title-small"><a href="#">@Html.ActionLink(" Tratamientos", "Tratamiento", "Tratamiento")</a></h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img class="img-fluid" src="~/Images/Nuevo.jpg" alt="">
+                        <div class="card-img-overlay"> <span class="badge badge-pill badge-danger">Paciente</span> </div>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h2 class=" title-small"><a href="#">Nuevo paciente</a></h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="img-fluid" src="~/Images/Reporte.jpg" alt="">
+                        <div class="card-img-overlay"> <span class="badge badge-pill badge-danger">Reportes</span> </div>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h2 class=" title-small"><a href="#">@Html.ActionLink("Reportes", "Reporte", "Reporte")</a></h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--./Servicios que ofrece este sitio web-->
+                <div class="col-md-6 top-slider">
+                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                        <!-- Imagen relacionada con la empresa -->
+                        <div class="carousel-inner" role="listbox">
+                            <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media"><img class="img-fluid" src="~/Images/Inicio.jpg" alt=""></div>
+                                    <div class="news-title">
+                                        <h2 class=" title-large"><a href="#">Todas las ventajas de Sonrisa perfecta a su alcance</a></h2>
+                                    </div>
+                                    <div class="news-des">Contamos con una red europea de cl&iacute;nicas propias, tecnolg&iacute;a de vanguardia, financiaci&oacute;n hasta 60 mesesy un servicio integral de odontolog&iacute;a m&aacute;s cercanas para ayudarte</div>
+                                    <div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+

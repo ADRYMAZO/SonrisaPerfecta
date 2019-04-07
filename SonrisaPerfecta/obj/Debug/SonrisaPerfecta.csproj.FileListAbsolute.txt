@@ -1,0 +1,210 @@
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll.config
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.pdb
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\Microsoft.Web.Infrastructure.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\WebGrease.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.xml
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.pdb
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Helpers.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Mvc.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Optimization.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Razor.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
+c:\users\estudiante\documents\visual studio 2013\Projects\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.pdb
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\WebGrease.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.pdb
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojResolveAssemblyReference.cache
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
+E:\Proyectos\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll.config
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.pdb
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Microsoft.Web.Infrastructure.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\WebGrease.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.xml
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.pdb
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Helpers.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Mvc.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Optimization.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Razor.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojAssemblyReference.cache
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csproj.CoreCompileInputs.cache
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csproj.CopyComplete
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
+D:\Usuarios\area.tecnologica\Mis documentos\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll.config
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.pdb
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\WebGrease.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
+C:\Users\Estudiante\Downloads\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\SonrisaPerfecta.pdb
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\WebGrease.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
+C:\Users\User\Desktop\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb

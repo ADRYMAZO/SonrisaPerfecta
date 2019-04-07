@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Agendar Cita";
+}
+<br />
+<br />
+<br />
+<br />
+    <div class="container-fluid">
+        <section class="">
+            <!--Contenido del formulario para agendar una cita odontologica-->
+            <form method="post" action="">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Agendar cita</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label for="NombreCompleto">Nombre completo</label>
+                                    <input type="text" class="form-control" id="NombreCompleto" name="NombreCompleto" required readonly placeholder="Nombre completo">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label for="numeroIdentificacion">N&uacute;mero de indentificaci&oacute;n</label>
+                                    <input type="number" class="form-control" id="numeroIdentificacion" name="numeroIdentificacion" required placeholder="N&uacute;mero de indentificaci&oacute;n">
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <div class="form-group">
+                                    <label for="Telefono">Tel&eacute;fono</label>
+                                    <input type="tel" class="form-control" id="Telefono" name="Telefono" required readonly placeholder="Tel&eacute;fono">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label for="Procedimiento">Procedimiento</label>
+                                    <input type="text" class="form-control" id="Procedimiento" name="Procedimiento" required placeholder="Procedimiento">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-2">
+                                <div class="form-group">
+                                    <label for="FechaCita">Fecha de la cita</label>
+                                    <input id="FechaCita" name="FechaCita" class="form-control datepicker" readonly placeholder="Fecha de asignaci&oacute;n">
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <div class="form-group">
+                                    <label for="HoraCita">Hora</label>
+                                    <input type="number" class="form-control" id="HoraCita" name="HoraCita" required placeholder="Hora de la cita">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <button type="submit" class="btn btn-primary">Guardar</button>
+                    </div>
+                </div>
+            </form>
+            <!--./Contenido del formulario para agendar una cita odontologica-->
+        </section>
+    </div>

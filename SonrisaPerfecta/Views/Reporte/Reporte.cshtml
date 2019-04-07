@@ -1,0 +1,132 @@
+﻿@{
+    ViewBag.Title = "Reporte";
+}
+<br />
+<br />
+<br />
+<br />
+<div class="container-fluid">
+    <section>
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Reportes</h3>
+            </div>
+            <div class="card-body">
+                <!--Pestañas de navegación en este mismo documento-->
+                <ul class="nav nav-tabs" id="nav-tab" role="tablist">
+                    <!--Pestaña para mostrar reportes de las atenciones por ciclo vital-->
+                    <li class="nav-item">
+                        <a class="nav-link active" id="atencionCicloVital-tab" data-toggle="tab" href="#atencionCicloVital" role="tab" aria-controls="home" aria-selected="true">Atenciones por ciclo vital</a>
+                    </li>
+                    <!--./Pestaña para mostrar reportes de las citas de ortodoncia-->
+                    <li class="nav-item">
+                        <a class="nav-link" id="citaOrtodoncia-tab" data-toggle="tab" href="#citaOrtodoncia" role="tab" aria-controls="profile" aria-selected="false">Citas por ortodoncia</a>
+                    </li>
+                    <!--Pestaña para mostrar reportes de las citas agendadas en un periodo determinado-->
+                    <li class="nav-item">
+                        <a class="nav-link" id="agendaCita-tab" data-toggle="tab" href="#agendaCita" role="tab" aria-controls="contact" aria-selected="false">Citas agendadas</a>
+                    </li>
+                </ul>
+                <!--./Contenido de las pestañas de navegación en este mismo documento-->
+
+                <!--Contenido de las pestañas-->
+                <div class="tab-content" id="nav-tabContent">
+                    <br />
+                    <div class="col-sm-4">
+                        <div class="form-group row">
+                            <label for="Buscar">Buscar:&nbsp;</label>
+                            <input type="text" name="Buscar" id="buscaEdadHasta" class="form-control" placeholder="Buscar" />
+                        </div>
+                    </div>
+
+                    <!--Contenido de las pestaña para mostrar reportes de las atenciones por ciclo vital-->
+                    <div class="tab-pane fade show active" id="atencionCicloVital" role="tabpanel" aria-labelledby="atencionCicloVital-tab">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Usuarios atendidos</th>
+                                    <th>Edad</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Kevin</td>
+                                    <td>20</td>
+                                </tr>
+                                <tr>
+                                    <td>Adriana</td>
+                                    <td>28</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--./Contenido de las pestaña para mostrar reportes de las atenciones por ciclo vital-->
+                    <!--Contenido de las pestaña para mostrar reportes de las citas de ortodoncia-->
+                    <div class="tab-pane fade" id="citaOrtodoncia" role="tabpanel" aria-labelledby="citaOrtodoncia-tab">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Nombre completo</th>
+                                    <th>Identificaci&oacute;n</th>
+                                    <th>G&eacute;nero</th>
+                                    <th>Edad</th>
+                                    <th>Escolaridad</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Kevin</td>
+                                    <td>1012343124</td>
+                                    <td>Heterosexual</td>
+                                    <td>20</td>
+                                    <td>Profesional</td>
+                                </tr>
+                                <tr>
+                                    <td>Adriana</td>
+                                    <td>1202756287</td>
+                                    <td>Heterosexual</td>
+                                    <td>28</td>
+                                    <td>Profesional</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--./Contenido de las pestaña para mostrar reportes de las atenciones por ciclo vital-->
+                    <!--Contenido de la pestaña para mostrar el reporte  sobre las citas agendadas en un periodo determinado-->
+                    <div class="tab-pane fade" id="agendaCita" role="tabpanel" aria-labelledby="agendaCita-tab">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Nombre completo</th>
+                                    <th>Fecha</th>
+                                    <th>Procedimiento a realizar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Kevin</td>
+                                    <td>10/03/2019</td>
+                                    <td>Diagn&oacute;stico y prevenci&oacute;n</td>
+                                </tr>
+                                <tr>
+                                    <td>Adriana</td>
+                                    <td>01/04/2019</td>
+                                    <td>Implantes</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--./Contenido de la pestaña para mostrar el reporte  sobre las citas agendadas en un periodo determinado-->
+                </div>
+                <!--./Contenido de las pestañas-->
+            </div>
+            <div class="card-footer">
+                <!--Boton para exportar los reportes-->
+                <label>Exportar: </label>
+                <button type="button" class="btn btn-primary"><i class="fas fa-file-word">&nbsp;WORD</i></button>
+                <button type="button" class="btn btn-danger"><i class="fas fa-file-pdf""></i>&nbsp;PDF</button>
+                <button type="button" class="btn btn-success"><i class="fas fa-file-excel"></i>&nbsp;EXCEL</button>
+            </div>
+        </div>
+    </section>
+</div>
