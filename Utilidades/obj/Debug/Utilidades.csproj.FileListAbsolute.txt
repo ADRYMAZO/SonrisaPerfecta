@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Utilidades\obj\Debug\Utilidades.pdb

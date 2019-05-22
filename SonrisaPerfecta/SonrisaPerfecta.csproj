@@ -139,6 +139,7 @@
     <Compile Include="Controllers\AgendarCitaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InicioController.cs" />
+    <Compile Include="Controllers\Paciente.cs" />
     <Compile Include="Controllers\RegistrarPacienteController.cs" />
     <Compile Include="Controllers\ReporteController.cs" />
     <Compile Include="Controllers\TratamientoController.cs" />
@@ -165,6 +166,7 @@
     <Content Include="Content\bootstrap\js\bootstrap.js" />
     <Content Include="Content\bootstrap\js\bootstrap.min.js" />
     <Content Include="Content\bootstrap\js\popper.min.js" />
+    <Content Include="Content\buttons.dataTables.min.css" />
     <Content Include="Content\datepicker\css\bootstrap-datepicker.css" />
     <Content Include="Content\datepicker\css\bootstrap-datepicker.min.css" />
     <Content Include="Content\datepicker\js\bootstrap-datepicker.js" />
@@ -241,6 +243,7 @@
     <Content Include="Content\datepicker\locales\bootstrap-datepicker.vi.min.js" />
     <Content Include="Content\datepicker\locales\bootstrap-datepicker.zh-CN.min.js" />
     <Content Include="Content\datepicker\locales\bootstrap-datepicker.zh-TW.min.js" />
+    <Content Include="Content\jquery.dataTables.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\font-awesome.css" />
     <Content Include="fonts\fontawesomev5.8.1\brands.css" />
@@ -295,14 +298,22 @@
     <Content Include="Content\datepicker\js\bootstrap-datepicker3.standalone.css.map" />
     <Content Include="Content\datepicker\js\bootstrap-datepicker3.standalone.min.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\buttons.html5.min.js" />
+    <Content Include="Scripts\buttons.print.min.js" />
+    <Content Include="Scripts\chart.loader.js" />
+    <Content Include="Scripts\dataTables.buttons.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\jquery-1.11.1.min.js" />
     <Content Include="Scripts\jquery-3.2.1.slim.min.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery.dataTables.min.js" />
+    <Content Include="Scripts\jszip.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\pdfmake.min.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\vfs_fonts.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -324,8 +335,28 @@
     <Content Include="Views\RegistrarPaciente\RegistrarPaciente.cshtml" />
     <Content Include="Views\Tratamiento\Tratamiento.cshtml" />
     <Content Include="Views\Reporte\Reporte.cshtml" />
+    <Content Include="Views\Reporte\ReportePacientes.cshtml" />
+    <Content Include="Views\Reporte\ListadoPacientes.cshtml" />
+    <Content Include="Views\Shared\_LayoutReporte.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{ed10324b-9d9c-480a-bbc7-61a94027bc84}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{9563659f-a1cb-467d-8726-cda4afaa15dd}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Respositorio\Respositorio.csproj">
+      <Project>{a4c1e425-2fea-4b28-b93d-05a9916ea9b0}</Project>
+      <Name>Respositorio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilidades\Utilidades.csproj">
+      <Project>{ae6e68ae-995a-4b98-b33b-be6bb056c884}</Project>
+      <Name>Utilidades</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
