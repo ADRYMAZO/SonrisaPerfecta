@@ -253,3 +253,6 @@ C:\Users\Estudiante\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Sonr
 C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojResolveAssemblyReference.cache
 C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
 C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb
+E:\SonrisaPerfecta\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.csprojResolveAssemblyReference.cache
+E:\SonrisaPerfecta\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.dll
+E:\SonrisaPerfecta\SonrisaPerfecta\SonrisaPerfecta\obj\Debug\SonrisaPerfecta.pdb

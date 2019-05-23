@@ -115,7 +115,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -139,7 +138,6 @@
     <Compile Include="Controllers\AgendarCitaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InicioController.cs" />
-    <Compile Include="Controllers\Paciente.cs" />
     <Compile Include="Controllers\RegistrarPacienteController.cs" />
     <Compile Include="Controllers\ReporteController.cs" />
     <Compile Include="Controllers\TratamientoController.cs" />
@@ -147,6 +145,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\TipoIdentificacion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Models\Home.cs" />
+    <Compile Include="Models\Paciente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

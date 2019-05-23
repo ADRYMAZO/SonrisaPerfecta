@@ -30,8 +30,8 @@ namespace Repositorio
                     comando.Parameters.Add("@FechaNacimiento", SqlDbType.VarChar).Value = paciente.FechaNacimiento;
                     comando.Parameters.Add("@Edad", SqlDbType.VarChar).Value = paciente.Edad;
                     comando.Parameters.Add("@EstadoCivil", SqlDbType.SmallInt).Value = paciente.EstadoCivil.Id;
-                    comando.Parameters.Add("@DireccionResidencia", SqlDbType.VarChar).Value = paciente.DireccionRecidencia;
-                    comando.Parameters.Add("@BarrioRecidencia", SqlDbType.SmallInt).Value = paciente.BarrioRecidencia.Id;
+                    comando.Parameters.Add("@DireccionResidencia", SqlDbType.VarChar).Value = paciente.DireccionResidencia;
+                    comando.Parameters.Add("@BarrioResidencia", SqlDbType.SmallInt).Value = paciente.BarrioResidencia.Id;
                     comando.Parameters.Add("@Telefono", SqlDbType.DateTime).Value = paciente.Telefono;
                     comando.Parameters.Add("@Ocupacion", SqlDbType.SmallInt).Value = paciente.Ocupacion;
                     comando.Parameters.Add("@NivelEscolaridad", SqlDbType.SmallInt).Value = paciente.NivelEscolaridad.Id;
@@ -78,8 +78,8 @@ namespace Repositorio
                         paciente.FechaNacimiento = (DateTime)reader["FechaNacimiento"];
                         paciente.Edad = reader["Edad"].ToString();
                         paciente.EstadoCivil = new Entidades.EstadoCivil();
-                        paciente.DireccionRecidencia = reader["DireccionRecidencia"].ToString();
-                        paciente.BarrioRecidencia = new Entidades.Barrio();
+                        paciente.DireccionResidencia = reader["DireccionResidencia"].ToString();
+                        paciente.BarrioResidencia = new Entidades.Barrio();
                         paciente.Telefono = reader["Telefono"].ToString();
                         paciente.Ocupacion = reader["Ocupacion"].ToString();
                         paciente.NivelEscolaridad = new Entidades.NivelEscolaridad();
@@ -93,7 +93,7 @@ namespace Repositorio
                         paciente.TipoIdentificacion = new Entidades.TipoIdentificacion()
                         {
                             Id = Convert.ToInt32(reader["IdPaciente"]),
-                            TipoIdentificacion = reader["TipoIdentificacion"].ToString()
+                            Nombre = reader["TipoIdentificacion"].ToString()
                         };
 
                         pacientes.Add(paciente);

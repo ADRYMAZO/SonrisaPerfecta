@@ -9,6 +9,6 @@ namespace Entidades
     public class EstadoCivil
     {
         public int Id { get; set; }
-        public string EstadoCivil { get; set; }
+        public string Nombre { get; set; }
     }
 }

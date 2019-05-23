@@ -9,6 +9,6 @@ namespace Entidades
     public class TipoIdentificacion
     {
         public int Id { get; set; }
-        public string TipoIdentificacion { get; set; }
+        public string Nombre { get; set; }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\SonrisaPerfecta\SonrisaPerfecta\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\SonrisaPerfecta\SonrisaPerfecta\Entidades\bin\Debug\Entidades.dll
+E:\SonrisaPerfecta\SonrisaPerfecta\Entidades\bin\Debug\Entidades.pdb
+E:\SonrisaPerfecta\SonrisaPerfecta\Entidades\obj\Debug\Entidades.dll
+E:\SonrisaPerfecta\SonrisaPerfecta\Entidades\obj\Debug\Entidades.pdb

@@ -18,9 +18,9 @@ namespace Negocio
             repositorio.IngresarPaciente(paciente);
         }
 
-        public List<Paciente> ObtenerDeportistas(string nombreCompleto, string numeroIdentificacion, string genero, string nivelEscolaridad)
+        public List<Paciente> ObtenerDeportistas(string nombreCompleto, string tipoIdentificacion, string numeroIdentificacion, string nivelEscolaridad)
         {
-            return repositorio.ObtenerPacientes(nombreCompleto, numeroIdentificacion, genero, nivelEscolaridad);
+            return repositorio.ObtenerPacientes(nombreCompleto, tipoIdentificacion, numeroIdentificacion, nivelEscolaridad);
         }
 
         public DataTable ObtenerPacientes()

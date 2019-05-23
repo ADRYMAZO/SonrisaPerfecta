@@ -12,7 +12,7 @@ namespace SonrisaPerfecta.Controllers
     {
         //
         // GET: /Resporte/
-        public ActionResult Reporte()
+        public ActionResult ListadoPacientes()
         {
             PacienteNegocio control = new PacienteNegocio();
             List<Paciente> pacientes = control.ObtenerPacientes(string.Empty, string.Empty, string.Empty, string.Empty, string.Empty);
@@ -46,6 +46,10 @@ namespace SonrisaPerfecta.Controllers
         }
 
         public ActionResult ReportePacientes()
+        {
+            return View();
+        }
+        public ActionResult Reporte()
         {
             return View();
         }

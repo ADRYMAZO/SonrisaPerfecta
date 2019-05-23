@@ -11,7 +11,7 @@ namespace Repositorio
     {
         void IngresarPaciente(Paciente paciente);
 
-        List<Paciente> ObtenerPacientes(string nombreCompleto, string numeroIdentificacion, string edad, string direccionRecidencia, string telefono, string ocupacion, string correoElectronico, string ContactoEmergencia, string AntecedenteMedico);
+        List<Paciente> ObtenerPacientes(string nombreCompleto, string numeroIdentificacion, string edad, string direccionResidencia, string telefono, string ocupacion, string correoElectronico, string ContactoEmergencia, string AntecedenteMedico);
         DataTable ObtenerPacientes();
 
         List<Paciente> ObtenerPacientes(string nombreCompleto, string numeroIdentificacion, string genero, string nivelEscolaridad);

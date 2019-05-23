@@ -1,1 +1,2 @@
 C:\Users\User\Downloads\SonrisaPerfecta-master\SonrisaPerfecta-master\Respositorio\obj\Debug\Respositorio.csprojResolveAssemblyReference.cache
+E:\SonrisaPerfecta\SonrisaPerfecta\Respositorio\obj\Debug\Respositorio.csprojResolveAssemblyReference.cache
